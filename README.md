@@ -94,3 +94,20 @@ This experience strengthened my ability to troubleshoot data-loading issues, wor
 ### 📄 Project Presentation
 
 [View the Project Presentation](alnc%20752%20project.pdf)
+## 📊 Visualizations
+
+### Tuition Trends
+
+![Tuition Trends](visualizations/tuition_trends.png)
+
+### Tuition by University
+
+![Tuition by University](visualizations/tuition_by_university.png)
+
+### Financial Aid Distribution
+
+![Financial Aid Distribution](visualizations/financial_aid_distribution.png)
+
+### Loan Disbursements by State
+
+![Loan Disbursements by State](visualizations/loan_disbursements_by_state.png)
