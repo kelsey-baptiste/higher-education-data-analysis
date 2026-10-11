@@ -32,6 +32,12 @@ The project used publicly available higher education datasets from:
 - pgAdmin
 - Excel
 - Tableau
+
+### 📊 Tableau Workbook
+
+The complete Tableau workbook is available here:
+
+[Download the Tableau Workbook](tableau/Higher%20Education%20Data%20Analysis.twbx)
 - Data Cleaning
 - Data Integration
 - Data Analysis
